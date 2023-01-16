@@ -42,13 +42,14 @@ Here are some images to explain how the reel is put together:
 ![PXL_20211030_151752117](https://user-images.githubusercontent.com/17005243/212564193-8fed45d4-6d0f-4bc6-9c3d-eec291076e11.jpg)
 ![PXL_20211030_151825155](https://user-images.githubusercontent.com/17005243/212564198-5104964d-74f3-404f-ae9d-fb6f572f9db7.jpg)
 ![PXL_20211030_151831536](https://user-images.githubusercontent.com/17005243/212564201-a1abf5b6-3172-4b3c-a105-9b606930a3ec.jpg)
-
+![PXL_20211030_151838891](https://user-images.githubusercontent.com/17005243/212727795-47c86ca6-84b8-47c2-b8de-dd67fa4653e4.jpg)
 
 
 ### Live testing and subsequent improvements. 
 Here are some images of the reel in action!!
 ![PXL_20211009_145816036](https://user-images.githubusercontent.com/17005243/212564215-9abe50ac-3cd8-44f9-930d-f83f51dfb00b.jpg)
 ![PXL_20211009_145852787](https://user-images.githubusercontent.com/17005243/212564218-d275fec8-619b-4835-92d8-1c9da6c52704.jpg)
+The crack in the reel after I dropped it on some rocks:
 ![reel,crakced](https://user-images.githubusercontent.com/17005243/212564222-f6e25121-908d-4036-b9ee-0d70bab1e0cb.jpg)
 
 ### Design flaws and future improvements
